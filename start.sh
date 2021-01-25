@@ -2,7 +2,7 @@
 
 if [[ -n $GIT_USER && -n $GIT_TOKEN && -n $GIT_REPO ]]; then
 	echo "Usage of Service Accounts Detected, Clonning git"
-	git clone https://"$GIT_TOKEN"@github.com/"$GIT_USER"/"$GIT_REPO" /bot/accounts
+	git clone https://"$GIT_TOKEN"@github.com/"$GIT_USER"/"$GIT_REPO"/bot/accounts
 	rm -rf /bot/accounts/.git
 elif [[ -n $CLIENT_SECRET && -n $CREDENTIALS ]]; then
 	echo "Usage of token detected"
