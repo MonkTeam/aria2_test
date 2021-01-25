@@ -1,11 +1,5 @@
 module.exports = Object.freeze({
   TOKEN: '1566501627:AAGAmDO8h29SA4z3EwOYtL-MYxokZytryzw',
-  GIT_USER: 'MonkTeam',
-  GIT_TOKEN: 'bcd2c127e54b98ab203e44605891c83265e1a4db',
-  GIT_REPO: 'aria2_test',
-  HEROKU_APP_NAME: 'ai-typescript-test',
-  HEROKU_EMAIL: 'daseviv448@febula.com',
-  HEROKU_API_KEY: '9a980148-559c-4aaf-b96b-3d720ec9c8c5',
   ARIA_SECRET: 'aitorrentware@2020',
   ARIA_DOWNLOAD_LOCATION: '/aria-telegram-mirror-bot/downloads',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
