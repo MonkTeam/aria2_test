@@ -1,7 +1,7 @@
 module.exports = Object.freeze({
   TOKEN: '1566501627:AAGAmDO8h29SA4z3EwOYtL-MYxokZytryzw',
   GIT_USER: 'MonkTeam',
-  GIT_TOKEN: 'ab2a3a81698c40cc50bfe891912f34f28bd353e3',
+  GIT_TOKEN: 'bcd2c127e54b98ab203e44605891c83265e1a4db',
   GIT_REPO: 'aria2_test',
   HEROKU_APP_NAME: 'ai-typescript-test',
   HEROKU_EMAIL: 'daseviv448@febula.com',
