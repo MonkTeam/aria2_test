@@ -1,5 +1,5 @@
 #Base Image
-FROM ghcr.io/MonkTeam/aria2_test:main
+FROM ghcr.io/k-e-n-w-a-y/aria-telegram-mirror-bot:master
 
 WORKDIR /bot/
 
